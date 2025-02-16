@@ -1,0 +1,17 @@
+.odd {
+    background-color: hsl(315, 76%, 80%);
+    font-family: "Verdana", "DejaVu Sans", serif;
+  }
+
+#number2 {
+    color: rgb(42, 42, 224);
+    font-size: 36px;
+  }
+.mondongo {
+    font-size: 24px;
+  }
+#number4 {
+    background-color: rgb(107, 230, 162);
+    font-size: 24px;
+    font-weight: bold; 
+  }
